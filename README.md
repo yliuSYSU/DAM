@@ -4,6 +4,9 @@ This is our official implementation for the paper:
 
 Liang Chen, Yang Liu, Xiangnan He, Lianli Gao and Zibin Zheng. 2019. Matching User with Item Set: Collaborative Bundle Recommendation with Attention Network, In Proceedings of IJCAI'19.
 
+# Run the code
+To try our code, you can use the notebook demo.ipynb.
+
 # Citation
 If you use the codes, please cite our paper. Thanks!
 ```
